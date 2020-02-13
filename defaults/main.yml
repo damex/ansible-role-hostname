@@ -1,0 +1,3 @@
+---
+hostname_hostname_file: "/etc/hostname"
+hostname_hosts_file: "/etc/hosts"

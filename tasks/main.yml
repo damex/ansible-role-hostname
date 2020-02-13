@@ -1,0 +1,7 @@
+---
+- name: ensure hostname
+  block:
+    - import_tasks: hostname.yml
+    - import_tasks: hosts.yml
+  tags:
+    - hostname
