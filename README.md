@@ -1,6 +1,6 @@
 # ansible hostname role
 
-[![Build Status](https://travis-ci.org/damex/ansible-role-hostname.svg?branch=master)](https://travis-ci.org/damex/ansible-role-hostname)
+[![Build Status](https://travis-ci.com/damex/ansible-role-hostname.svg?branch=master)](https://travis-ci.com/damex/ansible-role-hostname)
 
 The hostname role is designed to be used with Debian distributive.
 
